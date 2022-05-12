@@ -1,0 +1,129 @@
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "merriweather", serif;
+}
+
+h1 {
+  font-size: 562.5%;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  line-height: 2;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+  text-align: justify;
+}
+
+.web {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.thinking {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  line-height: 3;
+  margin-bottom: 200px;
+}
+
+.bottom-container {
+  line-height: 2;
+  background-color:#66BFBF;
+  padding-top: 40px;
+
+}
+
+.footer-link {color:#3aaaad;
+  font-family: 'montserrat', sans-serif;
+  margin: 20px;
+  text-decoration: none;
+}
+a:hover{color: #EAF6F6;}
+.copyright{color:#EAF6F6;
+margin-bottom: 0;}
+.summary{text-align: center;
+}
